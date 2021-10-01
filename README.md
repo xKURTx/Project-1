@@ -21,6 +21,12 @@ For this project, I was interestested in using Seattle Airbnb data to answer thr
 2. What are the most popular listings?
 3. What are the most expensive neighborhoods?
 
+## Results
+
+1. It was determined that the most popular destination based on the number of listings is Broadway.
+2. It was determined that the most popular listing based on the number of reviews is a property named contemporary art loft downtown.
+3. It was determined that the most expensive neighborhood based on the average price per listing is Southeast Magnolia.
+
 ## File Descriptions <a name="files"></a>
 
 There is one Jupyter Notebook.  
