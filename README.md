@@ -15,7 +15,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Seattle Airbnb Data to answer three business questions:
+For this project, I was interestested in using Seattle Airbnb data to answer three business questions:
 
 1. What are the most popular destinations based on neighborhood?
 2. What are the most popular listings?
